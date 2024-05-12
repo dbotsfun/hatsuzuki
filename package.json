@@ -207,5 +207,9 @@
   "bugs": {
     "url": "https://github.com/dbotsfun/hatsuzuki/issues"
   },
-  "homepage": "https://github.com/dbotsfun/hatsuzuki#readme"
+  "homepage": "https://github.com/dbotsfun/hatsuzuki#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
 }
