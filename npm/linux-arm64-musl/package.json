@@ -1,0 +1,21 @@
+{
+  "name": "@dbotsfun/hatsuzuki-linux-arm64-musl",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "hatsuzuki.linux-arm64-musl.node",
+  "files": [
+    "hatsuzuki.linux-arm64-musl.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "musl"
+  ]
+}
