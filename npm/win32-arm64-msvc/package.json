@@ -11,8 +11,18 @@
   "files": [
     "hatsuzuki.win32-arm64-msvc.node"
   ],
+  "description": "<a href=\"https://azurlane.koumakan.jp/wiki/Hatsuzuki\"><img align='right' src=\"https://azurlane.netojuu.com/images/3/3b/HatsuzukiShipyardIcon.png\" width=\"230\"></a>\r > A simplified, lightweight profanity filter for Node.js written in Rust 🦀.",
+  "keywords": [
+    "filter"
+  ],
+  "author": "@chikof",
+  "homepage": "https://github.com/dbotsfun/hatsuzuki#readme",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
+  },
+  "repository": "https://github.com/dbotsfun/hatsuzuki",
+  "bugs": {
+    "url": "https://github.com/dbotsfun/hatsuzuki/issues"
   }
 }

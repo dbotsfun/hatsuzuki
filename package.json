@@ -199,10 +199,7 @@
     "yargs": "^17.7.2",
     "yargs-parser": "^21.1.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dbotsfun/hatsuzuki.git"
-  },
+  "repository": "https://github.com/dbotsfun/hatsuzuki",
   "keywords": [
     "filter"
   ],
