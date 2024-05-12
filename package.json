@@ -43,7 +43,7 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.2.2",
+  "packageManager": "yarn@1.22.22",
   "description": "<a href=\"https://azurlane.koumakan.jp/wiki/Hatsuzuki\"><img align='right' src=\"https://azurlane.netojuu.com/images/3/3b/HatsuzukiShipyardIcon.png\" width=\"230\"></a>\r > A simplified, lightweight profanity filter for Node.js written in Rust 🦀.",
   "dependencies": {
     "abbrev": "^1.1.1",
